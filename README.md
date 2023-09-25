@@ -8,15 +8,6 @@ INSERT e DELETE (CRUD). A aplicação deverá ter como funcionalidade:
 3. Inserir um novo pedido a um cliente
 4. Remover um pedido de um cliente
 
-
-to do
-[] Create order modal
-[] Create order flow
-[] List orders
-[] Update order modal
-[] Update order flow
-[] Delete order
-
 Banco de dados: Criar banco “test” com 3 tabelas: customers, products, orders.
 
 Avaliação:
